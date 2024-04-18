@@ -8,6 +8,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 Using LSTM model to identify the Named Entities in a given sentence.
 The dataset used has a number of sentences, and each words have their tags. 
 We vectorize these words using Embedding techniques to train our model.
+## Neural Network Model
 
 ## DESIGN STEPS
 
